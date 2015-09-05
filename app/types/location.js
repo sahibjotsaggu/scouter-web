@@ -1,0 +1,2 @@
+export const GET_LOCATION = 'GET_LOCATION';
+export const CREATE_LOCATION = 'CREATE_LOCATION';

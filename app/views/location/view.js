@@ -1,9 +1,9 @@
 import React, { Component, PropTypes } from 'react';
 
-export default class HomeView extends Component {
+export default class LocationView extends Component {
   render() {
     return (
-      <h1>hello world</h1>
+      <h1></h1>
     );
   }
 }
